@@ -5,9 +5,9 @@ This project demonstrates how to create interactive particle animations using HT
 
 ## Screenshot
 
-## ## Live Demo
-Check out the live demo [here]
 
+## ## Live Demo
+Check out the live demo [here][(https://algomystique.github.io/Constellation-effect)]
 ## Features
 - **Bouncing Particles**: Particles move around the canvas, bouncing off the edges.
 - **Constellation Effect**: Particles connect with lines when they are within a certain distance, forming a dynamic, constellation-like pattern.
