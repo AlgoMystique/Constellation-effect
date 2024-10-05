@@ -4,7 +4,7 @@
 This project demonstrates how to create interactive particle animations using HTML5 Canvas and vanilla JavaScript. It features dynamic effects such as bouncing particles, animated constellations, and gradient backgrounds. The code is structured using object-oriented programming (OOP) principles for scalability and reusability.
 
 ## Screenshot
-![Constellation Screenshot](screensho.jpg)
+![Constellation Screenshot](screenshot.png)
 
 ## ## Live Demo
 Check out the live demo [here](https://algomystique.github.io/Constellation-effect)
