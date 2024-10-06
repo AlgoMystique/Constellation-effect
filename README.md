@@ -31,6 +31,12 @@ Check out the live demo [here](https://algomystique.github.io/Constellation-effe
 -**Constellation Effect:** As particles get close to one another, lines are drawn between them, creating a web-like structure.
 -**Dynamic Colors:** Colors are assigned using HSL values and change over time for a more fluid and visually interesting experience.
 
+## Resources
+
+This project was inspired by concepts learned in the "Creative Coding in JS - Masterclass" by Frank Dvorak on Udemy.
+
+Find his Udemy Course here: [Udemy Course](https://www.udemy.com/user/frantisek-dvorak)
+
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
